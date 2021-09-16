@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.idea
+/.vscode
+__pycache__
+/data
+.env
+.env.heroku
+/staticfiles
